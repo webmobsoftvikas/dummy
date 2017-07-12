@@ -28,7 +28,7 @@ class m_usermarketmarketplace extends CI_Model {
 	    return   $array;
     }
 
-      public function mymarketsettings($cname1,$currency,$setter)
+      public function mymarketsettings12($cname1,$currency,$setter)
     {
         $this->db->select("*");
         $this->db->where('company_name',$cname1);
