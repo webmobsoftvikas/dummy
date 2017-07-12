@@ -52,7 +52,7 @@ class m_usermarketmarketplace extends CI_Model {
 
     }
 
-	public function myRequestsForAmountOffers($user_id,$currType)
+	public function myRequestsForAmountOffers12($user_id,$currType)
 
 	{
 

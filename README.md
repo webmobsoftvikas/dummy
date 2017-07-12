@@ -1,2 +1,2 @@
-# dummy
-This is my dummy repository
+# dummy1
+This is dummy repository
