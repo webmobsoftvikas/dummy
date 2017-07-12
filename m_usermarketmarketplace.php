@@ -16,7 +16,7 @@ class m_usermarketmarketplace extends CI_Model {
 
     }
 
-    public function checkUserStatus($user_id)
+    public function checkUserStatus12($user_id)
     {
         $this->db->select("status");
         $this->db->where('id',$user_id);
