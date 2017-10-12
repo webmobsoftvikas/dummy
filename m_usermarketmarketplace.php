@@ -2,8 +2,6 @@
 
 <?php
 
-
- 
 class m_usermarketmarketplace extends CI_Model {
 
 
